@@ -1,0 +1,6 @@
+{
+  "PORT": 5000,
+  "MONGO_URI": "mongodb+srv://igor:123qweasd@cluster0.rs4fc.mongodb.net/blogpost?retryWrites=true&w=majority",
+  "JWT_SECRET": "mysecret",
+  "JWT_EXPIRE": "1d"
+}
